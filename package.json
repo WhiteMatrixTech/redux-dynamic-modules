@@ -1,5 +1,5 @@
 {
-    "name": "root",
+    "name": "redux-dynamic-modules",
     "version": "5.2.3",
     "private": true,
     "scripts": {
