@@ -49,7 +49,8 @@
     },
     "dependencies": {
         "redux-dynamic-modules-core": "^5.2.3",
-        "redux-dynamic-modules-react": "^5.2.3"
+        "redux-dynamic-modules-react": "^5.2.3",
+        "redux-dyanmic-modules-observable": "^5.2.3"
     },
     "gitHead": "8ea732047c2a08b1421ed68e76643e0bb6aa9362"
 }
